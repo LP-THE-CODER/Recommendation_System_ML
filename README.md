@@ -19,4 +19,5 @@ The goal of this project is to recommend movies to users based on their historic
 
    ```bash
    git clone https://github.com/your-username/SVD_Matrix_Factrization.git
-   cd movie-recommendation
+   cd git clone https://github.com/your-username/SVD_Matrix_Factrization.git
+cd SVD_Matrix_Factrization
