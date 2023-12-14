@@ -13,11 +13,4 @@ The goal of this project is to recommend movies to users based on their historic
 - `u.item`: MovieLens dataset file containing movie details.
 - `README.md`: This file.
 
-## Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/SVD_Matrix_Factrization.git
-   cd git clone https://github.com/your-username/SVD_Matrix_Factrization.git
-cd SVD_Matrix_Factrization
