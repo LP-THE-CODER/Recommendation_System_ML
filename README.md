@@ -8,7 +8,7 @@ The goal of this project is to recommend movies to users based on their historic
 
 ## Files and Directories
 
-- `movie_recommendation.ipynb`: Jupyter Notebook containing the code for the movie recommendation system.
+- `SVD_Matrix_Factrization.ipynb`: Jupyter Notebook containing the code for the movie recommendation system.
 - `u.data`: MovieLens dataset file containing user ratings.
 - `u.item`: MovieLens dataset file containing movie details.
 - `README.md`: This file.
@@ -18,5 +18,5 @@ The goal of this project is to recommend movies to users based on their historic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-recommendation.git
+   git clone https://github.com/your-username/SVD_Matrix_Factrization.git
    cd movie-recommendation
